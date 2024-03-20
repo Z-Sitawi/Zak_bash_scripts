@@ -7,7 +7,7 @@
     <th>Description</th>
   </tr>
   <tr>
-    <th><a href="https://github.com/Z-Sitawi/Zak_bash_scripts/blob/main/git.sh">git.sh</a></th>
+    <th><a href="https://github.com/Z-Sitawi/Zak_bash_scripts/blob/main/git.sh">push</a></th>
     <td>Takes a commit message and performs git add all, commits changes, and push</td>
   </tr>
   <tr>
@@ -17,4 +17,6 @@
 </table>
 <br><br><br><br>
 <h6>author: Zakaria Aaichaou</h6>
+<p>If you have any questions or feedback, feel free to contact me </p>
 <a href="https://ma.linkedin.com/in/zakaria-aaichaou-842983270" target="_blanck"><img src="https://github.com/Z-Sitawi/Zak_bash_scripts/assets/125461010/875dfa0c-fb5a-4602-8842-b6a5e6788286" alt="linkden" width="25px" hight="25px"></a>
+<a href="mailto:aaichaou.zakaria@gmail.com"><img src="https://github.com/Z-Sitawi/Zak_bash_scripts/assets/125461010/d0cdbb5c-2515-40b1-8cdf-ba9761d1464e" alt="email" width="25px" hight="25px"></a>
