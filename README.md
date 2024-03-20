@@ -1,4 +1,4 @@
-<h1>Useful Bash Scripst 📜</h1>
+<h1>Useful Bash Scripts 📜</h1>
 <h5>This repository is dedicated to a collection of Bash scripts designed to streamline and automate my daily tasks.</h5>
 <p">Don't forget to make the files executable!</p>
 <table>
