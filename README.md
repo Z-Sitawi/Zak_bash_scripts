@@ -17,4 +17,4 @@
 </table>
 <br><br><br><br>
 <h6>author: Zakaria Aaichaou</h6>
-<a href="https://ma.linkedin.com/in/zakaria-aaichaou" target="_blanck"><img src="https://github.com/Z-Sitawi/Zak_bash_scripts/assets/125461010/875dfa0c-fb5a-4602-8842-b6a5e6788286" alt="linkden" width="25px" hight="25px"></a>
+<a href="https://ma.linkedin.com/in/zakaria-aaichaou-842983270" target="_blanck"><img src="https://github.com/Z-Sitawi/Zak_bash_scripts/assets/125461010/875dfa0c-fb5a-4602-8842-b6a5e6788286" alt="linkden" width="25px" hight="25px"></a>
